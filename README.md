@@ -5,7 +5,9 @@
   <a href="https://www.linkedin.com/in/brandon-cruzyoull/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
+    <a href="https://www.beeseewhy.com">
+    <img src="https://img.shields.io/badge/BeeSeeWhy-hotpink?style=for-the-badge&logo=BeeSeeWhy&logoColor=white" alt="BeeSeeWHy Badge"/>
+  </a>
 </div>
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=BeeSeeWhy&style=flat-square&color=blue" alt=""/>
